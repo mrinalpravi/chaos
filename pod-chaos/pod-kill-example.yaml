@@ -21,4 +21,4 @@ spec:
   mode: one
   selector:
     labelSelectors:
-      "app.kubernetes.io/component": "tikv"
+      "test": "chaos"
