@@ -22,4 +22,4 @@ spec:
   duration: "30s"
   selector:
     labelSelectors:
-      "app.kubernetes.io/component": "tikv"
+      "test": "chaos"
